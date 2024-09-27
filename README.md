@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This project, carried out as part of the **Acoustic Pollution Control** course at CentraleSupélec, aimed to minimize the acoustic energy within various environments, such as concert halls, offices, or aircraft reactors. The main objective was to find the optimal distribution of a porous material within a wall, minimizing noise or maximizing sound absorption. 
+This project, carried out as part of the **Acoustic Pollution Control** course at CentraleSupélec in Fall 2023, aimed to minimize the acoustic energy within various environments, such as concert halls, offices, or aircraft reactors. The main objective was to find the optimal distribution of a porous material within a wall, minimizing noise or maximizing sound absorption. 
 
 The project was developed using Python to solve the **Helmholtz equation** for a domain with specific boundary conditions. The core of the project involved using a **gradient descent optimization algorithm** to minimize the energy by distributing absorbing materials in the most efficient way across various frequency ranges.
 
